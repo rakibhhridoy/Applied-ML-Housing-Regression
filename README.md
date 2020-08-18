@@ -53,11 +53,13 @@ ocean_proximity       20640 non-null object
 dtypes: float64(9), object(1)
 memory usage: 1.6+ MB
 ```
-next you will find in notebook. 
 [Source](https://medium.com/@gurupratap.matharu/end-to-end-machine-learning-project-on-predicting-housing-prices-using-regression-7ab7832840ab)
 
-# Get Touch With Me
-Connect- [Linkedin](https://linkedin.com/in/rakibhhridoy)
+next you will find in the notebook. 
+
+
+### *Get Touch With Me*
+Connect- [Linkedin](https://linkedin.com/in/rakibhhridoy) <br>
 Website- [RakibHHridoy](https://rakibhhridoy.github.io)
 
 
